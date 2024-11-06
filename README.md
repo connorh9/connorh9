@@ -2,4 +2,4 @@
 - 👀 I’m interested in Machine Learning and Embedded Systems
 - 🌱 I’m currently learning JSX React and C
 - 💞️ I’m looking to collaborate on projects being developed with the C language
-- 📫 Reach me at connor.swe@gmail.com
+- 📫 Reach me at connorh.swe@gmail.com
