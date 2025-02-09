@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Connor Hughes, a Senior at the University of Wisconsin - Madison, pursuing a Bachelors of Science in Computer Science.
-- 👀 I’m interested in Machine Learning and Embedded Systems
+- 👀 I’m interested in FullStack Development, Machine Learning and Embedded Systems
 - 🌱 I’m currently learning JSX React and C
-- 💞️ I’m looking to collaborate on projects being developed with the C language
+- 💞️ I’m looking to collaborate on projects being developed with the C language or in React
 - 📫 Reach me at connorh.swe@gmail.com
